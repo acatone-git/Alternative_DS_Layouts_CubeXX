@@ -14,6 +14,10 @@
 
 - On the Cube XX, press the Menu Key (M) and use the Left/Right Arrows to cycle through the various layouts.
 
+# Change Backgrounds
+
+- On the Cube XX, press the Menu Key (M) and the Y key to cycle through the options (White / Grey / None)
+  
 # Credits & Thanks
 
 - Reddit User u/Thraeg : [https://www.reddit.com/user/Thraeg/](https://www.reddit.com/user/Thraeg/)
