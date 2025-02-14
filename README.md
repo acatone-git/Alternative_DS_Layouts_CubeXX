@@ -13,3 +13,7 @@
 
 - On the Cube XX, press the Menu Key (M) and use the Left/Right Arrows to cycle through the various layouts.
 
+# Credits & Thanks
+
+- Reddit User u/Thraeg : [https://www.reddit.com/user/Thraeg/](https://www.reddit.com/user/Thraeg/)
+- MuOS Team: [https://muos.dev/](https://muos.dev/docs/crew)
