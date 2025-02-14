@@ -1,15 +1,13 @@
 # Fixed DS Layouts for the Cube XX (MuOS)
 
-![DS_Fix](https://github.com/user-attachments/assets/3391bcbe-22e5-4072-8330-e39aa2bd81e2)
+![DS_Fix_Demo](https://github.com/user-attachments/assets/3975baee-4cfe-41a3-99db-5a03f9c687a5)
 
-# Initial Setup
+# Setup
 
-- Download & extract the XX-DS-FIX archive from the [release page](https://github.com/acatone-git/Cube_DS_Fix_MuOS/releases)
-- Copy to the extracted folder to X:\RetroArch\.retroarch\overlay (as example below)
+- Download & extract the CUBE-DS-FIX archive from the [release page](https://github.com/acatone-git/Cube_DS_Fix_MuOS/releases)
+- Copy to the fixed "layout.json" file to X:\MUOS\emulator\drastic-trngaje\resources\bg\720x720 (as example below)
 
-
-
-![Install](https://github.com/acatone-git/TSP-NB/assets/67967964/bba418e3-60ce-4a89-ab68-1cfdaa39859d)
+![DS_Fix_Setup](https://github.com/user-attachments/assets/1b6cf84f-066b-4417-a2e8-e5bcd1ec1002)
 
 # Change Layouts
 
