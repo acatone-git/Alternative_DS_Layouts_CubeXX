@@ -11,5 +11,5 @@
 
 # Change Layouts
 
-- Press Menu + Arrow Left / Right to cycle the various layouts
+- On the Cube XX, press the Menu Key (M) and use the Left/Right Arrows to cycle through the various layouts.
 
