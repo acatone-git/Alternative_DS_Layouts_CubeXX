@@ -5,7 +5,8 @@
 # Setup
 
 - Download & extract the CUBE-DS-FIX-MUOS.zip archive from the [release page](https://github.com/acatone-git/Cube_DS_Fix_MuOS/releases)
-- Copy to the fixed "layout.json" file to X:\MUOS\emulator\drastic-trngaje\resources\bg\720x720 (as example below)
+- Copy to the fixed "layout.json" file to X:\MUOS\emulator\drastic-trngaje\resources\bg\720x720 
+  (as example below)
 
 ![DS_Fix_Setup](https://github.com/user-attachments/assets/1b6cf84f-066b-4417-a2e8-e5bcd1ec1002)
 
