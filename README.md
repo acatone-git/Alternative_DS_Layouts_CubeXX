@@ -1,6 +1,9 @@
 # Fixed DS Layouts for the Anbernic Cube XX (MuOS)
 
+Fixed DS layouts for the Cube XX (MuOS)
+
 ![DS_Fix_Demo](https://github.com/user-attachments/assets/3975baee-4cfe-41a3-99db-5a03f9c687a5)
+
 ![DS_Fix_Demo_2](https://github.com/user-attachments/assets/66052ec4-e04e-4026-8c46-9174279435ee)
 
 ## Setup
