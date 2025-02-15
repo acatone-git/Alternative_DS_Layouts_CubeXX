@@ -8,7 +8,7 @@
 
 ## Setup
 
-- Download & extract the CUBE-DS-FIX-MUOS.zip archive from the [release page](https://github.com/acatone-git/Cube_DS_Fix_MuOS/releases)
+- Download & extract the TWEAKED_LAYOUTS.zip archive from the [release page](https://github.com/acatone-git/Tweaked_DS_Layouts_CubeXX/releases)
 - Copy to the fixed "layout.json" file to X:\MUOS\emulator\drastic-trngaje\resources\bg\720x720 
   (as example below)
 
@@ -24,5 +24,6 @@
   
 ## Credits & Thanks
 
-- Reddit User u/Thraeg : [https://www.reddit.com/user/Thraeg/](https://www.reddit.com/user/Thraeg/)
+- u/Thraeg : [https://www.reddit.com/user/Thraeg/](https://www.reddit.com/user/Thraeg/)
+- Duncanyoyo1 : [https://github.com/duncanyoyo1](https://github.com/duncanyoyo1)
 - MuOS Team: [https://muos.dev/](https://muos.dev/docs/crew)
