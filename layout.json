@@ -6,6 +6,7 @@
     "index":0,
     "name":"vh_t0",
     "bg":"bg_t.png",
+    "type":0,
 
     "screen0_x":235,
     "screen0_y":540,
@@ -21,6 +22,7 @@
     "index":1,
     "name":"vh_t1",
     "bg":"bg_t.png",
+    "type":0,
 
     "screen0_x":235,
     "screen0_y":0,
@@ -36,6 +38,7 @@
     "index":2,
     "name":"s0",
     "bg":"bg_s0.png",
+    "type":4,
 
     "screen0_x":0,
     "screen0_y":0,
@@ -52,6 +55,7 @@
     "index":3,
     "name":"s1",
     "bg":"bg_t.png",
+    "type":4,
 
     "screen0_x":0,
     "screen0_y":0,
@@ -68,6 +72,7 @@
     "index":4,
     "name":"v0",
     "bg":"bg_t.png",
+    "type":0,
 
     "screen0_x":128,
     "screen0_y":8,
@@ -84,6 +89,7 @@
     "index":5,
     "name":"v1",
     "bg":"bg_v1.png",
+    "type":0,
 
     "screen0_x":120,
     "screen0_y":0,
@@ -100,6 +106,7 @@
     "index":6,
     "name":"h0",
     "bg":"bg_t.png",
+    "type":0,
 
     "screen0_x":8,
     "screen0_y":7,
@@ -116,7 +123,8 @@
     "index":7,
     "name":"h1",
     "bg":"bg_h1.png",
-
+    "type":0,
+    
     "screen0_x":0,
     "screen0_y":225,
     "screen0_w":360,
@@ -132,7 +140,8 @@
     "index":8,
     "name":"vh_s0",
     "bg":"bg_vh_s0.png",
-
+    "type":0,
+    
     "screen0_x":560,
     "screen0_y":600,
     "screen0_w":160,
@@ -148,7 +157,8 @@
     "index":9,
     "name":"vh_s1",
     "bg":"bg_vh_s1.png",
-
+    "type":0,
+    
     "screen0_x":40,
     "screen0_y":120,
     "screen0_w":386,
@@ -164,7 +174,8 @@
     "index":10,
     "name":"vh_s2",
     "bg":"bg_vh_s2.png",
-
+    "type":0,
+    
     "screen0_x":278,
     "screen0_y":493,
     "screen0_w":160,
@@ -180,6 +191,7 @@
     "index":11,
     "name":"vh_c0",
     "bg":"bg_vh_c0.png",
+    "type":0,
 
     "screen1_x":232,
     "screen1_y":410,
@@ -196,7 +208,8 @@
     "index":12,
     "name":"vh_c1",
     "bg":"bg_vh_c1.png",
-
+    "type":0,
+    
     "screen0_x":432,
     "screen0_y":252,
     "screen0_w":288,
@@ -213,7 +226,8 @@
     "name":"hh0",
     "bg":"bg_hh0.png",
     "rotate":90,
-
+    "type":2,
+    
     "screen0_x":0,
     "screen0_y":120,
     "screen0_w":480,
@@ -230,6 +244,7 @@
     "name":"hh1",
     "bg":"bg_hh0.png",
     "rotate":270,
+    "type":2,
 
     "screen0_x":0,
     "screen0_y":120,
@@ -246,6 +261,7 @@
     "index":15,
     "name":"hres0",
     "bg":"bg_t.png",
+    "type":0,
 
     "screen0_x":232,
     "screen0_y":6,
@@ -262,6 +278,7 @@
     "index":16,
     "name":"hres1",
     "bg":"bg_t.png",
+    "type":0,
 
     "screen0_x":232,
     "screen0_y":523,
