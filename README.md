@@ -1,6 +1,6 @@
 # Alternative DS Layouts for the Anbernic Cube XX (MuOS)
 
-15 DS layouts optimized for the Cube XX!
+A collection of DS layouts optimized for the Cube XX!
 
 ![DS_Fix_Demo](https://github.com/user-attachments/assets/3975baee-4cfe-41a3-99db-5a03f9c687a5)
 
