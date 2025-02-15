@@ -4,7 +4,7 @@
 "layout":[
 {
     "index":0,
-    "name":"vh_t0",
+    "name":"Full_T",
     "bg":"bg_t.png",
     "type":0,
 
@@ -20,7 +20,7 @@
 },
 {
     "index":1,
-    "name":"vh_t1",
+    "name":"Full_B",
     "bg":"bg_t.png",
     "type":0,
 
@@ -36,41 +36,7 @@
 },
 {
     "index":2,
-    "name":"s0",
-    "bg":"bg_s0.png",
-    "type":4,
-
-    "screen0_x":0,
-    "screen0_y":0,
-    "screen0_w":0,
-    "screen0_h":0,
-
-    "screen1_x":104,
-    "screen1_y":168,
-    "screen1_w":512,
-    "screen1_h":384
-},
-
-{
-    "index":3,
-    "name":"s1",
-    "bg":"bg_t.png",
-    "type":4,
-
-    "screen0_x":0,
-    "screen0_y":0,
-    "screen0_w":0,
-    "screen0_h":0,
-
-    "screen1_x":0,
-    "screen1_y":90,
-    "screen1_w":720,
-    "screen1_h":540
-},
-
-{
-    "index":4,
-    "name":"v0",
+    "name":"Equal_V",
     "bg":"bg_t.png",
     "type":0,
 
@@ -86,25 +52,8 @@
 },
 
 {
-    "index":5,
-    "name":"v1",
-    "bg":"bg_v1.png",
-    "type":0,
-
-    "screen0_x":120,
-    "screen0_y":0,
-    "screen0_w":480,
-    "screen0_h":360,
-
-    "screen1_x":120,
-    "screen1_y":360,
-    "screen1_w":480,
-    "screen1_h":360
-},
-
-{
-    "index":6,
-    "name":"h0",
+    "index":3,
+    "name":"Equal_Z",
     "bg":"bg_t.png",
     "type":0,
 
@@ -117,6 +66,57 @@
     "screen1_y":362,
     "screen1_w":468,
     "screen1_h":351
+},
+
+{
+    "index":4,
+    "name":"Stacked",
+    "bg":"bg_t.png",
+    "type":0,
+    
+    "screen0_x":60,
+    "screen0_y":100,
+    "screen0_w":640,
+    "screen0_h":480,
+
+    "screen1_x":20,
+    "screen1_y":140,
+    "screen1_w":640,
+    "screen1_h":480
+},
+
+{
+    "index":5,
+    "name":"Ratio_T",
+    "bg":"bg_t.png",
+    "type":0,
+
+    "screen0_x":232,
+    "screen0_y":523,
+    "screen0_w":256,
+    "screen0_h":192,
+
+    "screen1_x":17,
+    "screen1_y":13,
+    "screen1_w":686,
+    "screen1_h":505
+},
+
+{
+    "index":6,
+    "name":"Ratio_B",
+    "bg":"bg_t.png",
+    "type":0,
+
+    "screen0_x":232,
+    "screen0_y":6,
+    "screen0_w":256,
+    "screen0_h":192,
+
+    "screen1_x":17,
+    "screen1_y":206,
+    "screen1_w":686,
+    "screen1_h":505
 },
 
 {
@@ -138,19 +138,19 @@
 
 {
     "index":8,
-    "name":"vh_s0",
-    "bg":"bg_vh_s0.png",
+    "name":"vh_c1",
+    "bg":"bg_vh_c1.png",
     "type":0,
     
-    "screen0_x":560,
-    "screen0_y":600,
-    "screen0_w":160,
-    "screen0_h":120,
+    "screen0_x":432,
+    "screen0_y":252,
+    "screen0_w":288,
+    "screen0_h":216,
 
     "screen1_x":0,
-    "screen1_y":0,
-    "screen1_w":560,
-    "screen1_h":420
+    "screen1_y":198,
+    "screen1_w":432,
+    "screen1_h":324
 },
 
 {
@@ -206,19 +206,19 @@
 
 {
     "index":12,
-    "name":"vh_c1",
-    "bg":"bg_vh_c1.png",
+    "name":"v1",
+    "bg":"bg_v1.png",
     "type":0,
-    
-    "screen0_x":432,
-    "screen0_y":252,
-    "screen0_w":288,
-    "screen0_h":216,
 
-    "screen1_x":0,
-    "screen1_y":198,
-    "screen1_w":432,
-    "screen1_h":324
+    "screen0_x":120,
+    "screen0_y":0,
+    "screen0_w":480,
+    "screen0_h":360,
+
+    "screen1_x":120,
+    "screen1_y":360,
+    "screen1_w":480,
+    "screen1_h":360
 },
 
 {
@@ -259,36 +259,36 @@
 
 {
     "index":15,
-    "name":"hres0",
-    "bg":"bg_t.png",
-    "type":0,
+    "name":"s0",
+    "bg":"bg_s0.png",
+    "type":4,
 
-    "screen0_x":232,
-    "screen0_y":6,
-    "screen0_w":256,
-    "screen0_h":192,
+    "screen0_x":0,
+    "screen0_y":0,
+    "screen0_w":0,
+    "screen0_h":0,
 
-    "screen1_x":17,
-    "screen1_y":206,
-    "screen1_w":686,
-    "screen1_h":505
+    "screen1_x":104,
+    "screen1_y":168,
+    "screen1_w":512,
+    "screen1_h":384
 },
 
 {
     "index":16,
-    "name":"hres1",
+    "name":"s1",
     "bg":"bg_t.png",
-    "type":0,
+    "type":4,
 
-    "screen0_x":232,
-    "screen0_y":523,
-    "screen0_w":256,
-    "screen0_h":192,
+    "screen0_x":0,
+    "screen0_y":0,
+    "screen0_w":0,
+    "screen0_h":0,
 
-    "screen1_x":17,
-    "screen1_y":13,
-    "screen1_w":686,
-    "screen1_h":505
+    "screen1_x":0,
+    "screen1_y":90,
+    "screen1_w":720,
+    "screen1_h":540
 },
 ]
 
