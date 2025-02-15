@@ -12,7 +12,7 @@ A selection of alternative DS layouts for the Cube XX!
 
 ![DS_Fix_Setup](https://github.com/user-attachments/assets/1b6cf84f-066b-4417-a2e8-e5bcd1ec1002)
 
-## Change Layouts
+## Switch Layouts
 
 - On the Cube XX, press the Menu Key (M) and use the Left/Right Arrows to cycle through the various layouts.
 
