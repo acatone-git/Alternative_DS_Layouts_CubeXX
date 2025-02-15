@@ -8,7 +8,7 @@
 
 ## Setup
 
-- Download & extract the TWEAKED_LAYOUTS.zip archive from the [release page](https://github.com/acatone-git/Tweaked_DS_Layouts_CubeXX/releases)
+- Download & extract the ALT_LAYOUTS.zip archive from the [release page](https://github.com/acatone-git/Tweaked_DS_Layouts_CubeXX/releases)
 - Copy to the fixed "layout.json" file to X:\MUOS\emulator\drastic-trngaje\resources\bg\720x720 
   (as example below)
 
