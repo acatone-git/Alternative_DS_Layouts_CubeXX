@@ -1,4 +1,4 @@
-# Fixed DS Layouts for the Anbernic Cube XX (MuOS)
+# Tweaked DS Layouts for the Anbernic Cube XX (MuOS)
 
 15 DS layouts optimized for the Cube XX!
 
