@@ -7,7 +7,7 @@ A selection of alternative DS layouts for the Cube XX!
 ## Setup
 
 - Download & extract the ALT_LAYOUTS.zip archive from the [release page](https://github.com/acatone-git/Tweaked_DS_Layouts_CubeXX/releases)
-- Copy to the fixed "layout.json" file to X:\MUOS\emulator\drastic-trngaje\resources\bg\720x720 
+- Copy to the new "layout.json" file to X:\MUOS\emulator\drastic-trngaje\resources\bg\720x720 
   (as example below)
 
 ![DS_Fix_Setup](https://github.com/user-attachments/assets/1b6cf84f-066b-4417-a2e8-e5bcd1ec1002)
