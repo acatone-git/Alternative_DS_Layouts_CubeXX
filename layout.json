@@ -193,15 +193,15 @@
     "bg":"bg_vh_c0.png",
     "type":0,
 
-    "screen1_x":232,
-    "screen1_y":410,
-    "screen1_w":256,
-    "screen1_h":192,
+    "screen1_x":100,
+    "screen1_y":67,
+    "screen1_w":520,
+    "screen1_h":393,
 
-    "screen0_x":168,
-    "screen0_y":119,
-    "screen0_w":384,
-    "screen0_h":288
+    "screen0_x":230,
+    "screen0_y":460,
+    "screen0_w":260,
+    "screen0_h":190
 },
 
 {
